@@ -15,7 +15,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: '메인화면', link: '/'}
+  - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 

@@ -3,8 +3,13 @@
 <svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 260 260" style="enable-background:new 0 0 260 260;" xml:space="preserve">
 <style type="text/css">
-	.st0{font-family:'D2Codingligature';}
-	.st1{font-size:158.3102px;}
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'D2Codingligature';}
+	.st2{font-size:158.3102px;}
 </style>
-<text transform="matrix(1.2633 0 0 1 80.001 194.5645)" class="st0 st1">T</text>
+<g>
+	<rect x="0.5" y="0.5" class="st0" width="259" height="259"/>
+	<path d="M259,1v258H1V1H259 M260,0H0v260h260V0L260,0z"/>
+</g>
+<text transform="matrix(1.2633 0 0 1 80.001 194.5645)" class="st1 st2">T</text>
 </svg>
