@@ -1,0 +1,60 @@
+# SITE CONFIGURATION
+title: TopSeven의 기술 블로그
+author: kts6056
+description: > 
+  오늘도 한걸음 나가보자
+baseurl: ""
+url: "https://kts6056.github.io/"
+
+# SEO PLUGIN
+social:
+  name: Tae-sung Kim
+  links:
+    - https://github.com/kts6056
+    - https://kts6056.github.io/
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: '메인화면', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
+
+tagline: >
+  안녕하십니까! 풀스택 개발자가 되고 싶은 TopSeven 입니다
+
+hero_img: bg.jpg
+
+email: kts6056@gmail.com
+github_username:  kts6056
+
+disqus:
+  shortname: kts6056
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-sleek
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
