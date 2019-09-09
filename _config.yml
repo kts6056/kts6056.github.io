@@ -15,9 +15,10 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: '홈', link: '/'}
+  - {name: '분류', link: '/categories'}
+  - {name: '소개', link: '/'}
+  - {name: '연락', link: '/contact'}
 
 tagline: >
   안녕하십니까! 풀스택 개발자가 되고 싶은 TopSeven 입니다
