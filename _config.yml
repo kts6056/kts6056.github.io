@@ -17,7 +17,7 @@ social:
 navigation: # Navigation links
   - {name: '홈', link: '/'}
   - {name: '분류', link: '/categories'}
-  - {name: '소개', link: '/'}
+  - {name: '소개', link: '/about'}
   - {name: '연락', link: '/contact'}
 
 tagline: >
